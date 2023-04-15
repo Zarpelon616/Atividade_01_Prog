@@ -4,11 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace atividade01.classes
-
 {
-    public class Manager: Person
+    public class Worker: Person
     {
-      public bool IsWorker;
-        
+        public bool IsWorker;
     }
 }
